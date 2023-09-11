@@ -1,1 +1,1 @@
-# SKY-MAGIC
+SKY-MAGIC
